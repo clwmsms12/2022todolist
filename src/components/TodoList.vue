@@ -32,13 +32,13 @@ export default {
     align-items: center;
     height: 35px;
     margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
     .list{
       display: flex;
       gap: 10px;
     }
     .del{
-      background: skyblue;
-      padding: 0 20px;
+      padding: 0 17px;
       cursor: pointer;
       align-self: start;
       height: 100%;

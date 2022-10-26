@@ -48,6 +48,7 @@ export default {
 body{
   font-family: 'Roboto', sans-serif;
 }
+h1{text-align: center;}
 #app{
   width: 400px;
   margin: 0 auto;

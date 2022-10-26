@@ -55,7 +55,7 @@ export default {
   .btn {
     line-height: 40px;
     padding: 0 10px;
-    background: gray;
+    background: orange;
     color: white;
     cursor: pointer;
   }
